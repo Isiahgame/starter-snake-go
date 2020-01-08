@@ -1,3 +1,7 @@
+# -- DEPRECATION WARNING --
+This repo has been moved to https://github.com/BattlesnakeOfficial/starter-snake-go and will be archived.
+
+
 ## battlesnake-go
 
 A simple [Battlesnake AI](http://battlesnake.io) written in Go.
